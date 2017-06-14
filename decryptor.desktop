@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Synology Decryptor
+Comment=Decrypt Synology Cloud Sync encrypted files.
+GenericName=Synology Cloud Sync  Decryption Tool
+X-GNOME-FullName=Synology Cloud Sync  Decryption Tool
+Exec=/app/SynologyCloudSyncDecryptionTool
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Utility
